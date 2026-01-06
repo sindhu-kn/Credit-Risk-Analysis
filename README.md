@@ -67,7 +67,7 @@ Key Learnings
 4. Applying analytics to real-world banking and risk use cases
 
 Screenshots: ![Dashboard Preview](https://github.com/sindhu-kn/Credit-Risk-Analysis/blob/main/Screenshot%202026-01-06%20174135.png)
-             ![Dashboard Preview]()
+             ![Dashboard Preview](https://github.com/sindhu-kn/Credit-Risk-Analysis/blob/main/Screenshot%202026-01-06%20174233.png)
 
 
 
