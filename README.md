@@ -61,13 +61,14 @@ Dashboard Features
 5. Interactive filters for dynamic analysis
 
 Key Learnings
+1. Translating business risk questions into SQL logic
+2. Designing scalable data models for BI tools
+3. Using DAX to convert raw data into decision-ready metrics
+4. Applying analytics to real-world banking and risk use cases
 
-Translating business risk questions into SQL logic
+Screenshots: ![Dashboard Preview]()
+             ![Dashboard Preview](https://github.com/sindhu-kn/Crime-Data-Analysis/blob/main/Crime%20Data%20Analysis%20-%20Dashboard%202.png)
 
-Designing scalable data models for BI tools
 
-Using DAX to convert raw data into decision-ready metrics
-
-Applying analytics to real-world banking and risk use cases
 
 
